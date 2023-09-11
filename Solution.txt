@@ -1,0 +1,21 @@
+                                                                                                                                                   Getting Started  
+                                                                                                                                                         With HTML  
+                                                                                                                                                        Assignment 
+
+Assignment Question 
+
+2. Explain the purposes of comments in HTML and provide an example of how to usee  comments in an HTML document? 
+
+Answer:- The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers. You can  use comments to explain your code, which can help you when you edit the source code at a later date 
+
+4. Write a short note on Tag and element with an example? 
+
+ Answer:- TAG- An HTML tag is a piece of markup language used to indicate the beginning and end of an HTML element in an  HTML document. 
+As part of an HTML element, HTML tags help web browsers convert HTML documents into web pages. For example, the  <p> tag is used to organize text content into paragraph elements and the <img> tag is used to embed image elements. 
+
+ELEMENTS- An HTML element is a component of an HTML document that tells a web browser how to structure and  interpret a part of the HTML document. HTML elements can contain formatting instructions, semantic meaning, and  content. 
+For example, HTML elements are used to denote document parts such as headers, paragraphs, and footers and to  embed content such such as hyperlinks, text, and images. Although HTML can be used to provide formatting instructions,  HTML standards strongly encourage using CSS for this purpose instead.
+ 
+5. What is the DOCTYPE Declaration in HTML? 
+
+The HTML document type declaration, also known as DOCTYPE , is the first line of code required in every HTML or  XHTML document. The DOCTYPE declaration is an instruction to the web browser about what version of HTML the page  is written in. This ensures that the web page is 
